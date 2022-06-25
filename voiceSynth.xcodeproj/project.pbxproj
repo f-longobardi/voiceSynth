@@ -14,6 +14,7 @@
 		C8C985E62866F5DA003B59FE /* voiceSynthTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8C985E52866F5DA003B59FE /* voiceSynthTests.swift */; };
 		C8C985F02866F5DA003B59FE /* voiceSynthUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8C985EF2866F5DA003B59FE /* voiceSynthUITests.swift */; };
 		C8C985F22866F5DA003B59FE /* voiceSynthUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8C985F12866F5DA003B59FE /* voiceSynthUITestsLaunchTests.swift */; };
+		C8C985FF28670469003B59FE /* Languages.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8C985FE28670469003B59FE /* Languages.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		C8C985EB2866F5DA003B59FE /* voiceSynthUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = voiceSynthUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C8C985EF2866F5DA003B59FE /* voiceSynthUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = voiceSynthUITests.swift; sourceTree = "<group>"; };
 		C8C985F12866F5DA003B59FE /* voiceSynthUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = voiceSynthUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		C8C985FE28670469003B59FE /* Languages.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Languages.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				C8C985D42866F5D9003B59FE /* voiceSynthApp.swift */,
 				C8C985D62866F5D9003B59FE /* ContentView.swift */,
+				C8C985FE28670469003B59FE /* Languages.swift */,
 				C8C985D82866F5DA003B59FE /* Assets.xcassets */,
 				C8C985DA2866F5DA003B59FE /* Preview Content */,
 			);
@@ -259,6 +262,7 @@
 			files = (
 				C8C985D72866F5D9003B59FE /* ContentView.swift in Sources */,
 				C8C985D52866F5D9003B59FE /* voiceSynthApp.swift in Sources */,
+				C8C985FF28670469003B59FE /* Languages.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
